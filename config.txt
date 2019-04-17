@@ -1,0 +1,6 @@
+﻿token=NTY4MTQ0Mjc1ODk2Nzk1MTM4.XLdzuQ.QAY1MWyHpiNgHLkuptuxe3mKFtg 
+owner=514588568006426645
+prefix= 1
+game= تست
+stayinchannel=true
+songinstatus=true 
