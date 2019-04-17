@@ -1,6 +1,6 @@
-﻿token=NTY4MTQ0Mjc1ODk2Nzk1MTM4.XLdzuQ.QAY1MWyHpiNgHLkuptuxe3mKFtg 
+token=NTY4MTUxOTA2OTA4NjM1MTM3.XLd66A.88XIzSnnJOA6jkGfao2aR-ssLCQ
 owner=514588568006426645
-prefix= 1
-game= تست
+prefix= 2
+game= 2play
 stayinchannel=true
 songinstatus=true 
